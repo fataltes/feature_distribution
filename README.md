@@ -4,7 +4,6 @@ In this project I am trying to find out the best distribution that describes mos
 For that, I go through two different regimes
 
 1. Unsupervised
-
 2. Supervised
 
 In "unsupervised" section, we use statistical testing methods to find the mostly confident distribution that best describes our feature empirical distribution.
